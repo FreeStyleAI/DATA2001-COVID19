@@ -1,3 +1,6 @@
+SA2 data:
+https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.001July%202016?OpenDocument#Data
+
 # DATA2001-COVID19
 This is a group project for USYD DATA2001. We are processing and analysing COVID19 data in Australia 2020.
 
